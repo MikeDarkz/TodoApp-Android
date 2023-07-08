@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_hint">Título de la tarea</string>
+    <string name="add_task_button">Agregar tarea</string>
+    <string name="refresh_tasks_button">Actualizar tareas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
